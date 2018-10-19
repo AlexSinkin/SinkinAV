@@ -9,7 +9,7 @@ r = 130
 color = 'green'
 
 # ваш код здесь
-canv.create_oval(x-r, y-r, x+r, y+r)
+canv.create_oval(x-r, y-r, x+r, y+r, fill='green')
 # конец вашего кода
 
 mainloop()
