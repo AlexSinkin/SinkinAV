@@ -116,7 +116,7 @@ draw_tree()
 ##############################################
 
 while True:
-    gr.time.sleep(0.2)
+    gr.time.sleep(0.05)
     sun.move(-5, 0)
 
     sun_center = sun.getCenter()
