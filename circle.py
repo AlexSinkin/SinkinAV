@@ -11,5 +11,6 @@ color = 'green'
 # ваш код здесь
 canv.create_oval(x-r, y-r, x+r, y+r, fill='green')
 # конец вашего кода
+# MY COMMIT
 
 mainloop()
